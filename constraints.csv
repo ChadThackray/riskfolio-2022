@@ -1,0 +1,3 @@
+Disabled,Type,Set,Position,Sign,Weight,Type Relative,Relative Set,Relative,Factor
+False,Classes,Class 1,Crypto,<=,0.05,,,,
+False,Each asset in a class,Class 1,Crypto,<=,0.025,,,,
